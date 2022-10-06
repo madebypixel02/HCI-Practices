@@ -1,4 +1,4 @@
-# HCI-Practices
+# HCI-Practices | UOC
 
 [UOC] A repo containing the various practices I'll work on in Human-Computer Interaction
 
