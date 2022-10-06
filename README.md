@@ -8,4 +8,4 @@ This repo will contain the different practical activities I'll work on while tak
 
 :construction:
 
-## 1. [Research: Exploring the scenario]()
+## 1. [Research: Exploring the scenario](https://github.com/madebypixel02/HCI-Practices/tree/main/Part-1)
