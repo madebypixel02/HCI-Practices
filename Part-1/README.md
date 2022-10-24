@@ -212,6 +212,6 @@ In this final section we will consider some key Human-Computer Interaction featu
 
 ## Summary
 
-This was my first assignment for Human-Computer Interaction, I quite enjoyed it as it helped me to understand how pages should be designed from the ground up, and also to value the huge amounts of work and put behind every site to make sure they follow all these aforementioned standards.
+This was my first assignment for Human-Computer Interaction, I quite enjoyed it as it helped me to understand how pages should be designed from the ground up, and also to value the huge amounts of work and effort put behind every site to make sure they follow all these aforementioned standards.
 
 Oct  24th, 2022
