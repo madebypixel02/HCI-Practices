@@ -8,4 +8,4 @@ This repo will contain the different practical activities I'll work on while tak
 
 :construction:
 
-## [1. Research: Exploring the Scenario](1.\ Research:\ Exploring\ the\ Scenario)
+## [1. Research: Exploring the Scenario](./1.%20Research:%20Exploring%20the%20Scenario)
