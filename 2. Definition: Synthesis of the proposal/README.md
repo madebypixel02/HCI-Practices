@@ -8,12 +8,12 @@
 <!--                                            .---:   -@@#.  *@@--@@*      -->
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
-<!-- Created: 2022/11/14 20:51:29 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2022/11/15 14:33:55 by aperez-b                                -->
+<!-- Created: 2022/11/15 14:51:26 by aperez-b                       +@@@%@   -->
+<!-- Updated: 2022/11/15 14:51:48 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
-# 2. Definition: Synthesis of the proposal
+# 2. Definition: Synthesis of the proposal  
 
 ## Table of Contents
 
@@ -47,6 +47,10 @@ consulting opportunities, sharing an ad, or setting price drop alerts.
 
 ### Search Homes by Location
 
+  
+
+![Search homes by location](https://user-images.githubusercontent.com/40824677/201877568-2b3a947d-c9f3-47f1-b5cb-742625cabe83.png)
+
 The user will first type out the name of a place where they want to find
 housing on a search box, if it is a specific address it will list only
 results matching the address. If it is a Town or Country, the algorithm
@@ -55,9 +59,11 @@ drops. In every case the user will see an option to draw an area on the
 map to find housing in. If the search has no houses available or is
 otherwise invalid, the user will be notified accordingly.
 
-![Search homes by location](https://user-images.githubusercontent.com/40824677/201877568-2b3a947d-c9f3-47f1-b5cb-742625cabe83.png)
-
 ### Check Out Homes by Characteristics
+
+  
+
+![Check out homes by characteristics](https://user-images.githubusercontent.com/40824677/201883273-e4a74dc0-bfa9-4dd6-bc4e-b36cab70657b.png)
 
 Once the user has found houses matching search results, they will be
 able to filter results by filtering by number of rooms, price, bathrooms,
@@ -80,9 +86,11 @@ two or more filters are incompatible (e.g. having 5 floors in a flat,
 elevator on house with single floor, etc), no results will be shown and an
 error will be displayed.
 
-![Check out homes by characteristics](https://user-images.githubusercontent.com/40824677/201883273-e4a74dc0-bfa9-4dd6-bc4e-b36cab70657b.png)
-
 ### Actions Related to Homes
+
+  
+
+![Actions related to homes](https://user-images.githubusercontent.com/40824677/201890506-3f86ee84-c48b-4e26-b979-7318709221fe.jpg)
 
 When a user hovers over the picture of a house, a small tooltip will appear
 showing actions to save as favorite, share a link to the house, or notifications
@@ -95,12 +103,8 @@ automatically, so the user doesn't need to do it again. e.g. if the user tried
 to save a house as favorite but was not logged in, they will go to the login page
 and after logging in they will already have the house marked as favorite.
 
-![Actions related to homes](https://user-images.githubusercontent.com/40824677/201890506-3f86ee84-c48b-4e26-b979-7318709221fe.jpg)
-
-### Questions
-
 **Question**
-s
+
 How many steps does one have to do to complete each diagram and how muchs
 time do you spends?
 
@@ -277,6 +281,8 @@ often be associated with *notifications*.
 - Like Pablo said, it is a good idea to not only save to favorites, but also to
 save to other user-defined lists. I think the best approach is to save as favorites,
 with the option to create and add tags to every search.
+
+  
 - The rest appears to be fine for now.
 
 ## Solutions Proposal
@@ -284,6 +290,8 @@ with the option to create and add tags to every search.
 Here are my (mostly) hand-drawn sketches of the three features in action.
 
 ![Main Screen - Search box and map](https://user-images.githubusercontent.com/40824677/201931275-7581e162-4b8a-4ef9-9510-3e003a411563.png)
+
+  
 
 ![Search Results - Filtering options](https://user-images.githubusercontent.com/40824677/201931265-080f23cf-19de-4e02-8d64-07183904c2d5.png)
 
