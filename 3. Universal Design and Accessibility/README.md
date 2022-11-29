@@ -9,7 +9,7 @@
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
 <!-- Created: 2022/11/28 16:36:53 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2022/11/28 20:05:55 by aperez-b                                -->
+<!-- Updated: 2022/11/29 09:34:22 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -189,7 +189,7 @@ images get a proper (lengthy) description.
 Perceivable (*A*) and Operable (*AA*) accessibility levels:
 
     - Perceivable (*A*)
-      - Non-Existence of *h1* element (*century21global.com*)
+      - *Non-Existence of `h1` element* (*century21global.com*)
       - *Form controls without associated label* (*metrocuadrado.com*)
     - Operable (*A*)
       - *Empty Links* (*habitaclia.com*)
