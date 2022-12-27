@@ -13,3 +13,5 @@ This repo will contain the different practical activities I'll work on while tak
 ## [2. Definition: Synthesis of the proposal](./2.%20Definition:%20Synthesis%20of%20the%20proposal)
 
 ## [3. Universal Design and Accessibility](./3.%20Universal%20Design%20and%20Accessibility)
+
+## [4. Generation: Low-fidelity prototyping](./4.%20Generation:%20Low-fidelity%20prototyping)
