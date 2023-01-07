@@ -8,8 +8,8 @@
 <!--                                            .---:   -@@#.  *@@--@@*      -->
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
-<!-- Created: 2023/01/07 11:21:48 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2023/01/07 17:25:47 by aperez-b                                -->
+<!-- Created: 2023/01/07 23:35:27 by aperez-b                       +@@@%@   -->
+<!-- Updated: 2023/01/07 23:37:58 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -302,7 +302,19 @@ Once we analyzed the accessibility of these hand-drawn sketches, we
 designed [this low-fidelity prototype](https://www.justinmind.com/usernote/tests/72708202/74128913/74128917/index.html).
 Here are a few images showing some of the most remarkable features:
 
-🚧
+![Home Screen Search Bar - Hover](https://user-images.githubusercontent.com/40824677/211170910-19ec8c9e-0615-43a5-965e-88f436d2f5cb.png)
+
+![Home Screen Search Bar - Menu](https://user-images.githubusercontent.com/40824677/211170914-45438cc6-2022-48f2-952e-77fac3d1d22f.png)
+
+![Search Results - Menu Filter](https://user-images.githubusercontent.com/40824677/211170909-11b66d9e-3ebc-4697-8f0a-6656c4b180ab.png)
+
+![Search Results - Hover Image](https://user-images.githubusercontent.com/40824677/211170905-5077f378-809e-425c-8445-3a72f478a298.png)
+
+![Product - Hover Favorite](https://user-images.githubusercontent.com/40824677/211170901-6aaeb97b-406b-4a39-846b-c3c65c627fad.png)
+
+![Product - Fill Favorite - Hover Yes](https://user-images.githubusercontent.com/40824677/211170895-2a933e75-3fc0-4d71-8804-803a307e37e5.png)
+
+![Product - Hover Next](https://user-images.githubusercontent.com/40824677/211170886-a8cce326-1d07-4887-86ae-3eefe5ff6408.png)
 
 ### 3.3. Analysis and Results
 
@@ -367,7 +379,9 @@ these roadblocks, but it definitely pays off in the end.
 
 ## 5. References
 
-🚧
-
+1. Beaudouin-Lafon, M., Prototyping Tools and Techniques, https://www.kth.se/social/upload/52ef5ee4f2765445a466a28a/mackay-lafon-prototypes-52-HCI.pdf, 02/11/2022 
+1. Prototyping Tools, https://designcode.io/ui-design-handbook-prototyping-tools, 08/11/2022
+1. Shepherd, A., 12/10/2020:12:58, What Is Justinmind and How to Use Justinmind (Mockitt), https://mockitt.wondershare.com/software-design/justinmind.html, 15/12/2022
+1. McElroy, K., 08/01/2017, Prototyping for Designers: Developing the Best Digital and Physical Products, O'Reilly Media 2017
 
 January 7th, 2023

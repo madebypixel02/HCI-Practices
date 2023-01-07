@@ -8,12 +8,12 @@
 <!--                                            .---:   -@@#.  *@@--@@*      -->
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
-<!-- Created: 2023/01/07 11:21:53 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2023/01/07 16:32:49 by aperez-b                                -->
+<!-- Created: 2023/01/07 23:38:01 by aperez-b                       +@@@%@   -->
+<!-- Updated: 2023/01/07 23:38:57 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
-# 5. Evaluation: testing and evaluating the prototype with users
+# 5. Evaluation: Testing the Prototype with Users
 
 ## Table of Contents
 
@@ -234,7 +234,31 @@ useful information may be added.
 
 ## Usability of a Colleague's Proposal
 
-🚧
+After testing [Àlex's prototype](https://xd.adobe.com/view/699d898f-a79f-43ec-be3b-054ec32a9048-3cce/?fullscreen&hints=off), here are some remarks:
+
+- **Simple and minimal design**: The site appears generally simple, though it also
+may feel bloated with too many elements by some users. It is quite good nontheless.
+
+- **Equality of Use**: The site is not responsive and thus rescaling only makes
+the elements smaller, to the point they may be hard to read. This is probably out of
+the scope of the prototype anyway, and other than that the interface is well adapted
+for every type of user, as long as it uses a desktop form factor. Additionally, it seems
+like the black heart button does not cotrast well when the background is red (this is the
+outline color when an element is marked as favorite).
+
+- **Perceptible Information**: all elements on the screen follow the same design
+with a minimal UI, rounded corners and well thought out icons which are self-explanatory.
+
+Huge thanks to Àlex for this awesome prototype, keep it up! Here are a couple of
+screenshots of the UI:
+
+![Search Results](https://user-images.githubusercontent.com/40824677/211171646-4f69c234-6b49-42a2-b879-471a07e21e7f.png)
+
+![Map View](https://user-images.githubusercontent.com/40824677/211171644-a7e5d74f-b51f-4da2-bd8b-99a9791b95e6.png)
+
+![Result Page - Top](https://user-images.githubusercontent.com/40824677/211171641-8eb79ace-484a-4ebb-86f3-78dc4f1c7949.png)
+
+![Result Page - Bottom](https://user-images.githubusercontent.com/40824677/211171642-6d8bd99f-dd78-4a77-9393-4b111b37d0da.png)
 
 ## Accessibility Evaluation
 
