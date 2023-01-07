@@ -9,7 +9,7 @@
 <!-- By: aperez-b <aperez-b@uoc.edu>                     +@@@@@@@* +@@+      -->
 <!--                                                       :-==:.  -@@#      -->
 <!-- Created: 2022/11/15 14:51:26 by aperez-b                       +@@@%@   -->
-<!-- Updated: 2022/11/15 14:51:48 by aperez-b                                -->
+<!-- Updated: 2023/01/07 15:23:02 by aperez-b                                -->
 <!--                                                                         -->
 <!-- *********************************************************************** -->
 
@@ -281,8 +281,6 @@ often be associated with *notifications*.
 - Like Pablo said, it is a good idea to not only save to favorites, but also to
 save to other user-defined lists. I think the best approach is to save as favorites,
 with the option to create and add tags to every search.
-
-  
 - The rest appears to be fine for now.
 
 ## Solutions Proposal
@@ -290,8 +288,6 @@ with the option to create and add tags to every search.
 Here are my (mostly) hand-drawn sketches of the three features in action.
 
 ![Main Screen - Search box and map](https://user-images.githubusercontent.com/40824677/201931275-7581e162-4b8a-4ef9-9510-3e003a411563.png)
-
-  
 
 ![Search Results - Filtering options](https://user-images.githubusercontent.com/40824677/201931265-080f23cf-19de-4e02-8d64-07183904c2d5.png)
 
